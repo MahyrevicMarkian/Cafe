@@ -1,0 +1,275 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+ul{
+	list-style-type:none;
+}
+.w1{
+	margin:0px;
+	padding:0px;
+	height:100px;
+	background-color:gray;
+}
+.n{
+	color:white;
+	font-family:cursive;
+	margin-top:15px;
+	margin-left:120px;
+	float:left;
+}
+li{
+	list-style-type:none;
+	display:inline-block;
+	font-family:cursive;
+	color:white;
+	font-size:20px;
+	margin-top:-10px;
+	border:2px solid aqua;
+	border-radius:10px;
+}
+li:hover{
+	color:aqua;
+	border:2px solid gray;
+}
+.m2{
+	width:1350px;
+	height:558px;
+}
+.hi{
+	text-decoration:none;
+	color:white;
+}
+.jep{
+	color:black;
+	font-family:silver;
+}
+.hi:hover{
+	color:aqua;
+	border:2px solid gray;
+}
+.p{
+	font-family:cursive;
+}
+.r{
+	font-family:cursive;
+	text-align:center;
+}
+.w2000{
+	background: rgb(34,195,112);
+    background: linear-gradient(0deg, rgba(34,195,112,1) 0%, rgba(45,253,244,1) 100%);
+	margin-top:-20px;
+}
+.div{
+	background: rgb(195,34,118);
+    background: linear-gradient(0deg, rgba(195,34,118,1) 0%, rgba(45,234,253,1) 100%);
+	margin:0px;
+	padding:0px;
+}
+.h2{
+	font-family:cursive;
+	text-align:center;
+}
+.m1{
+	font-family:cursive;
+	margin-top:10px;
+	margin-left:-750px;
+}
+.m6{
+	margin-left:0px;
+	text-align:center;
+}
+.w5{
+	width:275px;
+	height:275px;
+}
+.w6{
+	width:300px;
+	height:275px;
+}
+.m10{
+	font-family:cursive;
+	margin-top:-40px;
+	margin-left:-150px;
+}
+.w7{
+	width:300px;
+	height:275px;
+}
+.m15{
+	font-family:cursive;
+	margin-top:-40px;
+	margin-left:375px;
+}
+.m20{
+	font-family:cursive;
+	margin-top:10px;
+	margin-left:-850px;
+}
+.m25{
+	font-family:cursive;
+	margin-top:-40px;
+	margin-left:-250px;
+}
+.m30{
+	font-family:cursive;
+	margin-top:10px;
+	margin-left:-800px;
+}
+.m26{
+	font-family:cursive;
+	margin-top:-40px;
+	margin-left:-200px;
+}
+.m16{
+	font-family:cursive;
+	margin-top:-40px;
+	margin-left:400px;
+}
+.m70{
+	color:black;
+	border-bottom:2px solid gray;
+	font-family:cursive;
+	text-align:center;
+}
+.p100{
+	font-family:cursive;
+	text-align:center;
+}
+.rgb{
+	font-family:cursive;
+	text-align:center;
+}
+.p101{
+	font-family:cursive;
+	text-align:center;
+	color:black;
+	border-bottom:2px solid gray;
+}
+.vidguk{
+	background: rgb(183,195,34);
+    background: linear-gradient(0deg, rgba(183,195,34,1) 0%, rgba(247,45,253,1) 100%);
+	margin:0px;
+	padding:0px;
+	font-family:cursive;
+}
+.beni{
+	margin-left:250px;
+	margin-top:35px;
+}
+.georgian{
+	resize:none;
+	width:300px;
+	height:100px;
+}
+.h1{
+	background-color:aqua;
+	margin-left:250px;
+	margin-top:35px;
+	border:2px solid black;
+	width:300px;
+	border-radius:10px;
+}
+.we2000{
+	margin-left:250px;
+	margin-top:5px;
+	width:450px;
+	border:2px solid black;
+	border-radius:10px;
+	background-color:lime;
+}
+.we5000{
+	margin-left:250px;
+	margin-top:5px;
+	width:450px;
+	border:2px solid black;
+	border-radius:10px;
+	background-color:red;
+}
+.we7000{
+	margin-left:250px;
+	margin-top:5px;
+	width:450px;
+	border:2px solid black;
+	border-radius:10px;
+	background-color:orange;
+}
+.x-ray{
+	margin:0px;
+	padding:0px;
+	font-family:cursive;
+	background: rgb(45,253,219);
+    background: linear-gradient(0deg, rgba(45,253,219,1) 0%, rgba(241,253,45,1) 100%);
+}
+.wu{
+	color:white;
+	background-color:gray;
+	border:2px solid aqua;
+	border-radius:10px;
+	font-family:silver;
+	font-size:20px;
+}
+.wu:hover{
+	color:aqua;
+	background-color:gray;
+	border:2px solid gray;
+	border-radius:10px;
+	font-family:silver;
+	font-size:20px;
+}
+.di1000{
+	margin-left:50px;
+	width:600px;
+	height:400px;
+}
+.qa1000{
+	border:2px solid black;
+	border-radius:150px;
+	width:75px;
+	height:75px;
+	margin-left:250px;
+}
+.ws{
+	color:white;
+	background-color:gray;
+	border:2px solid aqua;
+	border-radius:10px;
+	font-family:silver;
+	font-size:20px;
+}
+.ws:hover{
+	color:aqua;
+	background-color:gray;
+	border:2px solid gray;
+	border-radius:10px;
+	font-family:silver;
+	font-size:20px;
+}
+a{
+	text-decoration:none;
+	color:white;
+}
+a:hover{
+	color:aqua;
+	background-color:gray;
+	border:2px solid gray;
+	border-radius:10px;
+	font-family:silver;
+	font-size:20px;
+}
+.zamov{
+	background: rgb(253,45,252);
+    background: linear-gradient(0deg, rgba(253,45,252,1) 0%, rgba(51,45,253,1) 100%);
+	margin:0px;
+	padding:0px;
+	font-family:cursive;
+}
+.beni1{
+	margin-left:535px;
+	margin-top:35px;
+}
+.georgian1{
+	resize:none;
+	width:250px;
+	height:350px;
+}
